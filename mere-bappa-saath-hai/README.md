@@ -31,7 +31,7 @@ The video is publicly published on YouTube, where its current views, likes and a
 
 ---
 
-## 👩‍💻 My Contribution
+##  My Contribution
 
 - Creative concept development
 - Visual direction
