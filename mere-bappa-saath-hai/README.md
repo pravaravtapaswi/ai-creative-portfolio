@@ -31,6 +31,17 @@ The video is publicly published on YouTube, where its current views, likes and a
 
 ---
 
+## 👩‍💻 My Contribution
+
+- Creative concept development
+- Visual direction
+- AI-assisted visual generation
+- Prompt development
+- Scene and shot planning
+- Creative production
+- Video editing and final output
+- YouTube publishing
+
 ##  Creative Approach
 
 The project explores how Generative AI can be integrated into a music-video production workflow while maintaining a cohesive visual language and emotional connection with the subject.
