@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="cover.png" alt="Matsya Avtaar" width="100%">
+</p>
+
 # Matsya Avtaar
 
 ### 30-Minute AI-Assisted Mythological Episode
