@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="cover.png" alt="Mere Bappa Saath Hai" width="100%">
+</p>
 # Mere Bappa Saath Hai
 
 ### AI-Assisted Devotional Music Video
