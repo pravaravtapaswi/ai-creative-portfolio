@@ -1,12 +1,30 @@
+
 # AI Short-Form Joke Clips
 
 ### AI-Assisted Short-Form Entertainment Experiments
 
-A collection of short-form comedic clips created as experiments in **AI-assisted entertainment production**.
+A collection of short-form comedic clips created as experiments in AI-assisted entertainment production.
 
 The project explores how short comedy concepts can be developed from an idea or joke into an animated visual piece using Generative AI.
 
 ---
+
+##  Watch the Clip
+
+ **[Watch the AI Joke Clips on YouTube](https://youtu.be/F0-5LkADYLU)**
+
+---
+
+##  Format
+
+The clips are designed around:
+
+- Short comedic situations
+- Strong visual gags
+- Character-based humour
+- Quick narrative setups
+- Visual punchlines
+- Short-form pacing
 
 ##  Project Overview
 
