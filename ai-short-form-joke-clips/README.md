@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="cover.png" alt="Bakloli Hassi Ki Goli" width="100%">
+</p>
 
 # AI Short-Form Joke Clips
 
